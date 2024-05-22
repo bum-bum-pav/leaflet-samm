@@ -21,7 +21,7 @@ This project is a web application that uses Leaflet.js to display a map. The app
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-repo/leaflet-map-web-app.git
+    git clone https://github.com/bum-bum-pav/leaflet-samm.git
     cd leaflet-samm
     ```
 
