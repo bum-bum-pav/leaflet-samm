@@ -22,7 +22,7 @@ This project is a web application that uses Leaflet.js to display a map. The app
 
     ```sh
     git clone https://github.com/your-repo/leaflet-map-web-app.git
-    cd leaflet-map-web-app
+    cd leaflet-samm
     ```
 
 2. Install dependencies for the project:
@@ -55,18 +55,18 @@ This project is a web application that uses Leaflet.js to display a map. The app
 
 ## Project Structure
 
-├── leaflet-samm/
-│ ├── node_modules/
-│ ├── public/
-│ │ └── index.html
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── Map.js
-│ │ ├── App.js
-│ │ ├── index.js
-│ │ └── ...
-│ ├── package.json
-│ └── ...
-│
-├── README.md
-└── .gitignore
+    ├── leaflet-samm/
+    │ ├── node_modules/
+    │ ├── public/
+    │ │ └── index.html
+    │ ├── src/
+    │ │ ├── components/
+    │ │ │ └── Map.js
+    │ │ ├── App.js
+    │ │ ├── index.js
+    │ │ └── ...
+    │ ├── package.json
+    │ └── ...
+    │
+    ├── README.md
+    └── .gitignore
